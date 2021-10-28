@@ -18,9 +18,10 @@ If you use a different browser, please update the driver.
 ```python
 git clone https://github.com/raksup/auto_facebook_register_selenium_python.git
 
-# edit the values in ```details.py```
+# edit the path of the driver in the details.py file of each folder
+# edit the values in details.py
 
-# run the ```facebook_signup.py``` file from the command line
+# run the facebook_signup.py file from the command line
 python facebook_signup.py
 
 ```
